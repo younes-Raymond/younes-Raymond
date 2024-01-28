@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm [Your Name]! 👋
 
-<!--
-**younes-Raymond/younes-Raymond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in JavaScript and TypeScript, with a current focus on learning C# ASP.NET.
 
-Here are some ideas to get you started:
+🌱 I'm the creator of Safe Earth and AllMart Task Manager.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I'm passionate about exploring new technologies and enhancing my skills in software development.
+
+🔍 You can find me on [GitHub](https://github.com/yourusername) for my latest projects and contributions.
+
+🐦 Feel free to follow me on [Twitter](https://twitter.com/yourtwitterhandle) to stay updated on my journey and insights into the tech world.
+
+Let's innovate and build together! 🛠️✨
+
