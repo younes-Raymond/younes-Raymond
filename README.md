@@ -2,13 +2,17 @@
 
 I specialize in JavaScript and TypeScript, with a current focus on learning C# ASP.NET.
 
-🌱 I'm the creator of Safe Earth and AllMart Task Manager.
+🌱 I've developed Safe Earth and AllMart Task Manager, showcasing my skills in full-stack development and project management.
 
-📚 I'm passionate about exploring new technologies and enhancing my skills in software development.
+📚 I'm deeply passionate about exploring new technologies and continuously enhancing my skills in software development to deliver innovative solutions.
 
-🔍 You can find me on [GitHub](https://github.com/yourusername) for my latest projects and contributions.
+🔍 You can explore my latest projects and contributions on [GitHub](https://github.com/younes-Raymond).
 
-🐦 Feel free to follow me on [Twitter](https://twitter.com/yourtwitterhandle) to stay updated on my journey and insights into the tech world.
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/younes-raymond-188a40241/) to learn more about my professional background and experience.
 
-Let's innovate and build together! 🛠️✨
+🌐 Visit my portfolio at [younes-dev-v9ap.onrender.com](https://younes-dev-v9ap.onrender.com/) to see my work and projects.
+
+🐦 Follow me on [Twitter](https://twitter.com/yourtwitterhandle) for updates on my journey and insights into the tech world.
+
+Let's collaborate and build something extraordinary together! 🛠️✨
 
